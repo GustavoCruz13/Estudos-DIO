@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
               style: TextStyle(
-                  color: Colors.red, fontSize: 16, fontWeight: FontWeight.bold),
+                  color: Colors.red, fontSize: 16, fontWeight: FontWeight.w800),
             ),
             Text(
               '$_counter',
